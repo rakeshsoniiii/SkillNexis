@@ -18,11 +18,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## 🔐 Admin Access
 
-- Email: admin@skillnexis.com  
-- Password: @looKa_Achar04**
 
 ## 📧 Contact
-
-skillnexis.official@gmail.com
